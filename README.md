@@ -8,7 +8,6 @@ I'm [Mark Alexander](https://m15e.me), a full-stack software developer based in 
 - 🌱 &nbsp; I'm currently learning React at [Microverse](https://www.microverse.org/) and Private AI at [Openmined](https://courses.openmined.org/).
 - 👯 &nbsp; I’m looking to collaborate on any interesting projects. 
 - 🤔 &nbsp; I'm passionate about machine learning, democratising access to education. I also really enjoy surfing 🏄&nbsp;, reading 📖 &nbsp; and music 🎶. 
-- 💬 &nbsp; Ask me about philosophy, web technologies, privacy tech or pretty much anything that comes to mind.
 - 📫 &nbsp; You can reach me via [e-mail](mailto://mark.a.rode@gmail.com) or connect with me via [LinkedIn](https://linkedin.com/in/m15e)
 
 <br>
