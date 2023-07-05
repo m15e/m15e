@@ -9,10 +9,3 @@ I'm [Mark Alexander](https://m15e.me), a full-stack software developer based in 
 - 📫 &nbsp; You can reach me via [e-mail](mailto://mark.a.rode@gmail.com) or connect with me via [LinkedIn](https://linkedin.com/in/m15e)
 
 <br>
-
-![Mark's github stats](https://github-readme-stats.vercel.app/api?username=m15e&show_icons=true&theme=react)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m15e&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
